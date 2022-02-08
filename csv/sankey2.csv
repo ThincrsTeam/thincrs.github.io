@@ -1,0 +1,102 @@
+source,target,value
+Full Stack,Implementación de tecnologías web,1
+Full Stack,Desarrollo con frameworks de Front-end,1
+Full Stack,Implementación de servidor REST y acceso a los servicios Open311,1
+Full Stack,Administración de servidores,1
+Full Stack,Fundamentos de seguridad,2
+Full Stack,Redes y Seguridad,1
+Full Stack,Desarrollo con frameworks de Back-end,1
+Full Stack,Implementación del Cliente-Servidor,1
+Full Stack,Integración de la interfaz de usuario con el servidor REST y pruebas unitarias,3
+Front-end,Implementación de tecnologías web,2
+Front-end,Desarrollo con frameworks de Front-end,1
+Back-end,Administración de servidores,2
+Back-end,Desarrollo con frameworks de Back-end,1
+Data Engineering,Toma de consciencia,2
+Data Engineering,Implementación de servidor REST y acceso a los servicios Open311,1
+Data Engineering,Desarrollo con frameworks de Back-end,1
+Data Engineering,Decisión,2
+Data Engineering,Desarrollo con frameworks de Front-end,1
+Data Engineering,Evaluación Final,1
+Data Science,Toma de consciencia,2
+Data Science,Implementación de servidor REST y acceso a los servicios Open311,1
+Data Science,Desarrollo con frameworks de Back-end,1
+Data Science,Decisión,2
+Data Science,Desarrollo con frameworks de Front-end,1
+Data Science,Evaluación Final,1
+DevOps,Lenguajes de Programación,1
+DevOps,Administración de servidores,2
+DevOps,Redes y Seguridad,2
+DevOps,Contenedores,2
+Information Security,Fundamentos de seguridad,2
+Information Security,Gestión de sistemas de información,2
+Information Security,Redes y Seguridad,2
+Internet of Things,Electronica,4
+Internet of Things,Lenguajes de Programación,1
+Internet of Things,Redes y Seguridad,2
+Internet of Things,Administración de servidores,1
+Blockchain Solutions Architect,Lenguajes de Programación,1
+Blockchain Solutions Architect,Desarrollo con frameworks de Front-end,1
+Blockchain Solutions Architect,Administración de servidores,1
+Blockchain Solutions Architect,Implementación de servidor REST y acceso a los servicios Open311,1
+Blockchain Solutions Architect,Cómputo distribuido,3
+Implementación de tecnologías web,Implementación de lenguajes de marcado para la estructuración de contenido,1
+Implementación de tecnologías web,Lenguajes de estilo para la descripción de documentos,1
+Implementación de tecnologías web,Implementacion de frameworks de estilo ,1
+Desarrollo con frameworks de Front-end,Uso de lenguajes de enmarcado en frameworks de front-end,1
+Desarrollo con frameworks de Front-end,Enrutamiento de sitios,1
+Desarrollo con frameworks de Front-end,Gestión e integración de paquetes y librerías,1
+Desarrollo con frameworks de Front-end,Presentaciones visuales con librerías en JavaScript,1
+Implementación de servidor REST y acceso a los servicios Open311,Desarrollo de solicitudes REST,2
+Implementación de servidor REST y acceso a los servicios Open311,Construcción de servidores REST,2
+Administración de servidores,Servidores Linux (base),1
+Fundamentos de seguridad,Controles de acceso,1
+Redes y Seguridad,Seguridad avanzada con firewalls,1
+Desarrollo con frameworks de Back-end,Construcción de servidores REST,1
+Desarrollo con frameworks de Back-end,Programación Orientada a Objetos,1
+Implementación del Cliente-Servidor,Protección en la arquitectura Cliente-Servidor,1
+Integración de la interfaz de usuario con el servidor REST y pruebas unitarias,Implementación de librerías Websocket,1
+Integración de la interfaz de usuario con el servidor REST y pruebas unitarias,Realización de pruebas de desempeño,1
+Integración de la interfaz de usuario con el servidor REST y pruebas unitarias,Diseño de Aplicaciones Cliente-Servidor,1
+Administración de servidores,Análisis comparativo de Distribuciones de Linux,1
+Administración de servidores,Servidores Windows,1
+Desarrollo con frameworks de Back-end,Administración de bases de datos,1
+Toma de consciencia,"Administrar datos, información y contenido digital",1
+Toma de consciencia,"Explorar, buscar y filtrar información sobre bienes y servicios",1
+Toma de consciencia,Evaluar y comparar información sobre bienes y servicios,1
+Toma de consciencia,Reconocer y evaluar la comunicación y la publicidad comerciales,1
+Toma de consciencia,Gestionar la identidad y el perfil digitales en el mercado digital,1
+Decisión,Participar en plataformas de economía colaborativa,1
+Decisión,Gestionar los pagos y finanzas a través de medios digitales,1
+Decisión,"Entender los derechos de autor, licencias y contratos de los bienes y servicios digitales",1
+Decisión,Gestionar los datos personales y la privacidad,1
+Evaluación Final,Identificar las deficiencias y límites de las cibercompetencias de los consumidore,1
+Evaluación Final,Reafirmar los derechos del consumidor en el mercado digital,1
+Lenguajes de Programación,Programación Orientada a Objetos,1
+Lenguajes de Programación,Programación Procedural,1
+Lenguajes de Programación,Scripting,1
+Administración de servidores,Virtualización,1
+Administración de servidores,Instancias en la nube,1
+Administración de servidores,Servidores Web,1
+Administración de servidores,Administración de bases de datos,1
+Redes y Seguridad,Fundamentos TCP/IP ,1
+Redes y Seguridad,Modelo OSI,1
+Redes y Seguridad,"Protocolos DNS, HTTP/S, FTP, SSL",1
+Contenedores,"Docker, LXC",1
+Contenedores,Kubernetes y Openshift,1
+Fundamentos de seguridad,Pilares de la seguridad,1
+Fundamentos de seguridad,Criptografía,1
+Fundamentos de seguridad,Gestión de riesgos en sistemas de información,1
+Gestión de sistemas de información,Gestión de respaldos y actualizaciones,1
+Gestión de sistemas de información,Auditorías de seguridad,1
+Redes y Seguridad,Controles de seguridad física en redes,1
+Redes y Seguridad,Controles de seguridad técnica en redes,1
+Redes y Seguridad,Redes Privadas Virtuales (VPN),1
+Electronica,Electrónica básica,1
+Electronica,Procesamiento de señales,1
+Electronica,Sensores y servomotores,1
+Electronica,Microcontroladores,1
+Lenguajes de Programación,Programas embebidos,1
+Cómputo distribuido,Fundamentos de estructuras de cadenas de bloques,1
+Cómputo distribuido,Bases de las Criptomonedas y NFT,1
+Cómputo distribuido,Desarrollo e implementación de smart contracts,1
